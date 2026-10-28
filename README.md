@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🏁 F1 Race Intelligence
+### 🚀 [View Live Dashboard](https://f1-race-intelligence-dashboard-nu.vercel.app)
+
+Explore the live dashboard in your browser.
 
 ### Formula 1 race results, explored through Tableau
 
